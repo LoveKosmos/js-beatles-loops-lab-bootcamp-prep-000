@@ -9,6 +9,7 @@ function theBeatlesPlay(arrMus,arrIns){
     var i = 0;
     while (i < arr.length){
       arr[i]= arr[i] + '!!!'
+<<<<<<< HEAD
       i++
   }
   return arr;
@@ -25,4 +26,9 @@ function iLoveTheBeatles(num){
   }
   
   
+=======
+  }
+  return arr;
+  }
+>>>>>>> 3fac09fc3942ecfb8eb75e1c29917bac1cf79466
 
